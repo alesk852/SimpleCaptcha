@@ -20,6 +20,7 @@ public class MainActivity extends AppCompatActivity {
         captcha.setTextColor(Color.WHITE);
         captcha.setRandom(10);
         captcha.show();
+        //t
 
 
         captcha.setAfterValidate(new AfterValidate() {
